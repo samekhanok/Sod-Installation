@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## [Sod Installation](https://inbloomlandscaping.ca/sod-installation/) Creating and caring for the lawn
 
-You can use the [editor on GitHub](https://github.com/samekhanok/Sod-Installation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A beautiful and durable lawn begins with carefully prepared soil. Equally important is the quality of the seeds and subsequent care. Perhaps everyone will cope with the creation of a lawn in a small area, but if you want to create a lawn in a larger area, you can safely turn to inbloomlandscaping. We will carry out all the work - both in private gardens and in the courtyards of apartment buildings, which are necessary to create a beautiful and durable lawn - from soil preparation to maintenance work:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. [Creating a lawn](https://inbloomlandscaping.ca/sod-installation/)
 
-### Markdown
+Soil preparation. The nature of the necessary work depends on the soil: surface preparation, elimination of old vegetation and stones, creation of a drainage system, covering with a layer of new soil, leveling and rolling.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sowing the lawn. Sowing and rolling the lawn. Seeds for the lawn should be selected taking into account the nuances of the use of the lawn and natural conditions. You can grow a lawn from seeds, or you can create it from turf. On vast land plots and territories, it is more often decided in favor of growing from seeds, since it comes out cheaper.
 
-```markdown
-Syntax highlighted code block
+Watering the lawn. Watering a freshly sown lawn is necessary to accelerate growth, in addition, grass shoots are very sensitive to drought.
 
-# Header 1
-## Header 2
-### Header 3
+### 2. [Lawn care](https://inbloomlandscaping.ca/sod-installation/)
 
-- Bulleted
-- List
+inbloomlandscaping takes care of the lawn in private gardens or public areas. In the contract for the provision of care services, we stipulate the amount of all necessary work: mowing, fertilizing or weed control. An agreement on the provision of care services can also be concluded for a short period of time - for example, if you are going on vacation and the garden needs care.
 
-1. Numbered
-2. List
+## Which lawn to prefer?
 
-**Bold** and _Italic_ and `Code` text
+You can create a lawn by sowing grass seeds, using turf, or using a "lawn stone." Preparatory work must be carried out in the same way for all types of lawn.
 
-[Link](url) and ![Image](src)
-```
+### 1. Lawn seeds
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The choice of different types of seeds for the lawn is very wide. The choice of seeds for the lawn mainly depends on the subsequent purpose and method of using the lawn, on natural conditions, and on where the lawn area is located - in a sunny or shaded area. The most common seed mixtures for lawns:
 
-### Jekyll Themes
+    Garden lawn - very resistant to trampling, requires little maintenance. Suitable for both sunny and semi-shaded areas. A mixture of seeds consists of different varieties of plants.
+    Shadow lawn - a special lawn that is resistant to trampling, suitable for semi-shaded areas, but grows very well in arid sunny areas.
+    The English lawn is a decorative and dense lawn, which can be called economical, because it grows slowly and does not require such frequent mowing as other types of lawns. Suitable for sunny and semi-shaded areas, resistant to drought.
+    Football lawn - suitable for areas where the lawn must be very resistant to heavy stamping, and is suitable for playgrounds with ball, etc.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samekhanok/Sod-Installation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 2. Sod (roll) lawn
+
+The advantage of a turf lawn is speed, since the lawn is suitable for use immediately after installation. But soil preparation is also necessary in his case, since rolls of turf must be installed immediately upon their delivery. Turf lawn is popular mainly in sports facilities, but it is becoming increasingly popular among owners of private gardens. Compared to a sowing lawn, a turfy lawn is expensive.
+
+### 3. "Lawn stone"
+
+There are various possibilities for creating a lawn from a special stone, but their common property is that you can drive a car along such a lawn without leaving any traces. When using the “lawn stone”, the seeds for the lawn are mixed with the ground, and this mixture is distributed over the holes in the “lawn stone”.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble Check out our [contact support](https://inbloomlandscaping.ca/contact-in-bloom-landscaping/) and we’ll help you sort it out.
